@@ -30,9 +30,7 @@ export default function Home() {
         </p>
 
         <img
-          src="/math1.jpg"
-          alt="Математика"
-          className="mt-8 w-72 rounded-3xl shadow-xl md:w-96"
+          src="/math-practice-site/math1.jpg"
         />
 
         <a
